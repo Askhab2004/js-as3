@@ -65,21 +65,3 @@ switch(code){
     case 'js': console.log('js');
     case 'react': console.log('react');
 }
-
-
-
-
-
-
-//1
-
-
-
-//2
-func()
-
-function func(){
-    console.log('Привет мир')
-}
-
-alert(5678)
